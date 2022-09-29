@@ -1,0 +1,69 @@
+categories: []
+content: New Guide
+created: '2022-09-29T23:39:37.880Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: 85b72503-5cd5-4e42-b0a5-df3e7d2eef29
+name: Guide Name
+publishStatus: live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      Introduction Comments 
+              
+    name: Introduction
+    stepItems:
+      - label: Label 22233
+        required: false
+        type: PublicShortInput
+        uuid: 4ad7f648-048a-4d15-ade3-48ecc3118961
+      - label: Label444
+        required: false
+        type: PrivateShortInput
+        uuid: 0ae4d3d9-89d9-4677-ad86-09104f7e21d8
+    uuid: d09b9970-6bd9-4ce5-bce5-4ef843fb2388
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - only_dog
+          - only_cat
+        choices:
+          - content: Dog And Cat
+            key: dog_and_cat
+          - content: Dog Or Cat
+            key: dog_or_cat
+          - content: Only Dog
+            key: only_dog
+          - content: Only Cat
+            key: only_cat
+        content: Dog or a Cat, Do or a Cat, Dog or a Cat
+        type: MultipleChoice
+        uuid: 534a5475-9eb4-4302-9169-28b3c4002915
+      - answerKeys:
+          - 1c3f63c8
+        choices:
+          - content: ffffff
+            key: 1c3f63c8
+          - content: sdf
+            key: f8965c6d
+        content: dfsdf
+        type: SingleChoice
+        uuid: 79884f15-8744-447f-b359-79374e32d6c6
+      - answerKeys:
+          - 2b96d638
+          - 2a143c8f
+        choices:
+          - content: dsfs
+            key: 2b96d638
+          - content: sdfsdf
+            key: 2a143c8f
+        content: sdfsdf
+        type: MultipleChoice
+        uuid: d290a79f-7a90-436a-8b19-f2f2d9a02405
+    uuid: a0ebe606-481d-4f5c-95c4-b945820d8108
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: 85b72503-5cd5-4e42-b0a5-df3e7d2eef29
