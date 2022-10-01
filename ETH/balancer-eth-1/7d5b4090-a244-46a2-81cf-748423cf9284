@@ -1,0 +1,370 @@
+categories:
+  - community
+content: This guide gives information on the Balancer Grants DAO
+created: '2022-10-01T21:11:21.244Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: 7d5b4090-a244-46a2-81cf-748423cf9284
+name: Balancer Grants DAO Guide
+publishStatus: live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      # **Overview**
+
+
+      Balancer is a Protocol built on Ethereum that works as an automated
+      portfolio management and trading platform where fees are collected from
+      traders to rebalance portfolios by leveraging arbitrage opportunities. 
+
+
+      Currently, about 17.5 thousand people are committed to Balancer as
+      Liquidity Providers (LPs) and have generated $3.4 Billion in liquidity
+      since inception.
+
+
+      Also, as a community-driven organization, Balancer’s governed process is
+      decentralized and is operated by members of the community, otherwise known
+      as Ballers who hold the governance token. For Balancer, the governance
+      token is BAL and is used for every decision-making process within the
+      organization.
+    name: Overview
+    stepItems: []
+    uuid: 363dff5a-f1cb-4a02-bcab-4c1e0b27d0df
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - dog_or_cat
+          - only_cat
+          - dog_and_cat
+        choices:
+          - content: It is an automated portfolio manager
+            key: dog_and_cat
+          - content: Fees are collected from traders to rebalance portfolios
+            key: dog_or_cat
+          - content: It has an orderbook for traders
+            key: only_dog
+          - content: It is a trading platform
+            key: only_cat
+        content: Which of these is TRUE about Balancer? (Select three)
+        type: MultipleChoice
+        uuid: f8f11050-f5a7-498b-b76b-c0e7af45a63c
+      - answerKeys:
+          - 72d1e71f
+        choices:
+          - content: $10 Billion
+            key: 2d8c4397
+          - content: $100 Billion
+            key: 5f803d0e
+          - content: $5.2 Billion
+            key: c14bab9b
+          - content: $3.4 Billion
+            key: 72d1e71f
+        content: Since inception, how much has Balancer generated in liquidity?
+        type: MultipleChoice
+        uuid: f466a1e1-556a-4fa8-96b3-ddb9223a06af
+      - answerKeys:
+          - 48745f03
+        choices:
+          - content: BALANCE
+            key: 73cd4412
+          - content: BAL
+            key: 48745f03
+          - content: LP
+            key: aa5ed21e
+          - content: ETH
+            key: 69ecdc28
+        content: What is the governance token for Balancer?
+        type: MultipleChoice
+        uuid: 9fbf075f-49bf-4387-af4d-e8f8a05161fc
+    uuid: 0f7391ec-75e8-4f59-bd28-1c93f7416a76
+  - content: >-
+      # **Balancer Grants DAO**
+
+
+      The Balancer Grants DAO is a subDAO in the Balancer community that gives
+      the opportunity to contributors to build on the Balancer Protocol such
+      that it will benefit Balancer. This opportunity comes in the form of
+      funding and guidance throughout the building process. 
+
+
+      The Grants DAO is being managed by a committee that approves based on the
+      need for Balancer funds for grantees so they can build easily. 
+
+
+      The Grants DAO is open to groups and individuals who want to solve a real
+      problem for Balancer to optimize an already existing feature, product or
+      project. To get ideas on possible are of funding, kindly look at the [RFPs
+      here](https://balancer.community/balancer-community-grants/rfps-challenges-opportunities).
+
+
+      To learn more about the Grants DAO, click
+      [here](https://forum.balancer.fi/t/proposal-establish-the-balancer-grants-dao-and-coordinate-the-next-wave-of-balancer-community-grants/2095).
+    name: Balancer Grants DAO
+    stepItems: []
+    uuid: d708e64e-7e46-471b-95aa-28a41dd205e7
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 57c75c28
+        choices:
+          - content: Funding and Guidance
+            key: 57c75c28
+          - content: Guidance Only
+            key: 746133d8
+          - content: Funding Only
+            key: d06a8e58
+          - content: Salaries
+            key: 0487cb06
+        content: What do the grants DAO give to contributors?
+        type: MultipleChoice
+        uuid: 91bb8c20-1fd5-4268-91a0-e1319c1c14cf
+      - answerKeys:
+          - 50a2cf6e
+        choices:
+          - content: Community
+            key: da8d4580
+          - content: Founders
+            key: 11779a41
+          - content: Committee
+            key: 50a2cf6e
+          - content: Leaders
+            key: 160c92d4
+        content: Who approves the funds for contributors?
+        type: MultipleChoice
+        uuid: 56087bb6-b11f-460e-8f89-3ebe9e16d2f1
+    uuid: 076d16cb-a9b8-4f5f-b05f-655a6a34993c
+  - content: >-
+      # **Budget**
+
+
+      Balancer has set aside 25,000 BAL to manage the Grants DAO. 80% of this
+      value is the value given to grantees (contributors) while 20% is used to
+      pay members of the committee and to manage the subDAO. A breakdown of the
+      budget is shown below:
+
+
+      <table>
+        <tr>
+         <td>Name
+         </td>
+         <td>Amount in BAL
+         </td>
+         <td>Description
+         </td>
+        </tr>
+        <tr>
+         <td>Q3 Grants
+         </td>
+         <td>20,000
+         </td>
+         <td>To be rewarded to grantees based on milestones following the full Grants review process. For sub $5k contributions a light review process will be utilized.
+         </td>
+        </tr>
+        <tr>
+         <td>4 Committee Members
+         </td>
+         <td>200 x 4 x 3 months =2,400 BAL
+         </td>
+         <td>Commit to supporting & reviewing up to 10 hours a week and mentoring up to 5 hours a week
+         </td>
+        </tr>
+        <tr>
+         <td>1 Grant Lead
+         </td>
+         <td>500 x 3 months =1,500 BAL
+         </td>
+         <td>The Grants Lead role takes ownership of the establishment and operations of the Balancer Grant processes. The Lead is responsible for coordinating with Committee Members, scheduling and hosting meetings, and leading the post grants report.
+         </td>
+        </tr>
+        <tr>
+         <td>Other Program Expenses
+         </td>
+         <td>1100 BAL
+         </td>
+         <td>Any other program expenses that may be required for the smooth execution of the grants program. This may include (but is not limited to) to design, media, PR, research, legal or any other specialized functions outside the skillset of the committee.
+         </td>
+        </tr>
+      </table>
+    name: Budget
+    stepItems: []
+    uuid: f26b9f9a-34d8-4b5c-9dcc-3abaeeead6c5
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 3caf62cd
+        choices:
+          - content: 25,000 BAL
+            key: 3caf62cd
+          - content: 30,000 BAL
+            key: e1d554e8
+          - content: 10,000 BAL
+            key: 9d19d882
+          - content: 18,000 BAL
+            key: 795f3c27
+        content: What is the budget for the Grants DAO as a whole?
+        type: MultipleChoice
+        uuid: 8e1a1100-dc43-41ef-b5fc-c75711bdb322
+      - answerKeys:
+          - 709b825d
+        choices:
+          - content: 25,000 BAL
+            key: 1f863c7c
+          - content: 20,000 BAL
+            key: 709b825d
+          - content: 23,000 BAL
+            key: 9d04321c
+          - content: 22,000 BAL
+            key: 7571ac32
+        content: >-
+          80% of the total budget for the grants DAO goes to contributors. How
+          much is that?
+        type: MultipleChoice
+        uuid: d736b8d9-8179-479b-8ccc-27392cf30fc5
+    uuid: 55560c7c-0477-40a6-8293-60e4008fb9fd
+  - content: >-
+      # **Rewards**
+
+
+      Contributors who wish to apply to the Balancer Grants DAO can get funded
+      by the committee. The funding range is between ($1k - $75k) in BAL tokens
+      depending on the size of the project to be implemented.
+
+
+      The payments are made in installments based on a predefined agreement
+      between the grantee and grants committee to ensure that milestones are
+      achieved and the risk of not completing the task is minimized.
+
+
+      Aside from funding, contributors get support in terms of access to mentors
+      who work with them to ensure that the projects go on successfully and in
+      cases of challenges, they will be able to resolve with the help of the
+      mentors.
+    name: Rewards
+    stepItems: []
+    uuid: 943da9fb-c387-4bb4-8d85-2652cc33a63b
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - e20ca921
+        choices:
+          - content: $100k
+            key: eae0a851
+          - content: $50k
+            key: 61a4afd9
+          - content: $80k
+            key: def1d611
+          - content: $75k
+            key: e20ca921
+        content: >-
+          What is the maximum amount a contributor can get for an idea or
+          project?
+        type: MultipleChoice
+        uuid: 02c4b46a-bab9-437e-ae42-af3348a340d9
+      - answerKeys:
+          - f38ffbb6
+        choices:
+          - content: All payments are made at the start of the project
+            key: 2246c6e8
+          - content: All payments are made at the end of the project
+            key: 1bf28e25
+          - content: Payments are made in instalments based on milestones achieved
+            key: f38ffbb6
+          - content: Payments are made monthly irrespective of milestones achieved
+            key: 1d8fcebc
+        content: How often is the payment made to contributors who got funded?
+        type: MultipleChoice
+        uuid: fbb6737a-b299-4b37-ad9d-e362659a652a
+    uuid: 72e10040-c04e-4ac8-9f73-81432aa4b183
+  - content: >-
+      # **Apply to Balancer Grants DAO**
+
+
+      The application process follows the following process:
+
+
+      1. Submit an application via [this
+      link](https://balancer.community/balancer-community-grants).
+
+      2. The committee will review the application by conducting a viability
+      review as well as due diligence on the contributor(s) making the
+      application. The review takes about two weeks to get completed
+
+      3. If the application is successful, a call will be scheduled between the
+      contributor and the grants committee. Also, a mentor will be assigned to
+      the contributors to guide them through the process of building.
+    name: Apply to Balancer Grants DAO
+    stepItems: []
+    uuid: aed2b147-78c8-4ca0-9c66-eb7830595338
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 6f3aba12
+        choices:
+          - content: Submit an application
+            key: 72ba52d1
+          - content: Get called by the committee is application is successful
+            key: 006a1b8f
+          - content: Make payment to committee to get access
+            key: 6f3aba12
+          - content: Application is reviewed by the committee
+            key: 3bb81854
+        content: >-
+          Which of these is NOT a process in obtaining a grant from Balancer?
+          (Select one)
+        type: MultipleChoice
+        uuid: c4670ec4-7d13-4f0b-b375-dbef9eb43694
+      - answerKeys:
+          - dc5296c5
+        choices:
+          - content: 4 weeks
+            key: c5f665cf
+          - content: 1 week
+            key: 36fc05b7
+          - content: 2 weeks
+            key: dc5296c5
+          - content: 3 weeks
+            key: 9a7360e0
+        content: >-
+          How long does it take the committee to review applications? (Select
+          one)
+        type: MultipleChoice
+        uuid: 36e2df62-cbfd-4fce-98aa-c0ce334f4730
+    uuid: dc178fbf-a69d-4b1f-95f0-9c5c0b8384df
+  - content: >-
+      # **Join Balancer**
+
+
+      To join the Balancer, kindly connect via these social channels listed
+      below:
+
+
+
+
+      1. Discord [https://discord.balancer.fi/](https://discord.balancer.fi/)
+
+      2. Medium
+      [https://medium.com/balancer-protocol](https://medium.com/balancer-protocol)
+
+      3. Twitter
+      [https://twitter.com/BalancerLabs](https://twitter.com/BalancerLabs)
+
+      4. GitHub
+      [https://github.com/balancer-labs/](https://github.com/balancer-labs/)
+
+      5. LinkedIn
+      [https://www.linkedin.com/company/balancer-labs/](https://www.linkedin.com/company/balancer-labs/)
+
+      6. YouTube
+      [https://www.youtube.com/channel/UCBRHug6Hu3nmbxwVMt8x_Ow](https://www.youtube.com/channel/UCBRHug6Hu3nmbxwVMt8x_Ow)
+    name: Join Balancer
+    stepItems: []
+    uuid: 4b30035a-7bdc-44e7-8f51-b53c5d474538
+thumbnail: ipfs://QmfLjWbdbAb2njVAdFykQcWSwDNDeTkuu44gXka3oio2XW
+uuid: 7d5b4090-a244-46a2-81cf-748423cf9284
