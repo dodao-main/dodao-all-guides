@@ -1,0 +1,229 @@
+categories:
+  - member
+  - community
+content: How to apply for Diplomat and earn rewards
+created: '2022-10-02T00:51:26.180Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: efce640e-3abd-494c-8da7-e36290a5a1d9
+name: New Diplomat Guide
+publishStatus: live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      Babylon Finance is a community owned and led asset management protocol
+      where users can invest in DeFi together. The platform presents an
+      opportunity for members to collaborate with one another to develop
+      strategies and products to increase their returns as well as grow the
+      community rather than try to navigate the world of DeFi individually.
+
+
+      Babylon has a two-layer governance system. The protocol is managed by the
+      holders of the governance token, $BABL, which is used to vote on changes
+      to the protocol and decide on the best use of the protocol treasury. 
+
+
+      Babylonians can create investment communities (called "Gardens") and
+      invite people to deposit capital. Members participate in the garden by
+      joining the telegram chat, suggesting investment Strategies and voting on
+      Strategies. Members receive rewards based on their contributions.
+    name: About Babylon Finance
+    stepItems: []
+    uuid: a5db8645-7676-4bb1-9598-a4d05aa50edf
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - only_dog
+        choices:
+          - content: Provides leveraged protocol to invest in bitcoin
+            key: dog_and_cat
+          - content: Provides a stable coin
+            key: dog_or_cat
+          - content: >-
+              Provides asset management protocol where users can invest in DeFi
+              together
+            key: only_dog
+          - content: Allows creating balance sheets on chain
+            key: only_cat
+        content: What does Babylon Finance do? (Select one)
+        type: MultipleChoice
+        uuid: 629b8145-ec20-451b-9884-2461bd244c88
+      - answerKeys:
+          - 06f15c1b
+        choices:
+          - content: $BABK
+            key: b5dbef23
+          - content: $BABL
+            key: 06f15c1b
+          - content: $BABB
+            key: b8dd820d
+          - content: $BALB
+            key: ed60e473
+        content: What is the governance token for Babylon Finance?
+        type: MultipleChoice
+        uuid: 6cf820bc-66d2-49d4-86fc-5e9277546f0a
+    uuid: 3a452ce6-f547-4f82-b677-d1d1e68d8e90
+  - content: >
+      # Background
+
+      * Babylon is growing rapidly, there is a need to improve the process of
+      onboarding new Babylon users and helping them deposit into their first
+      garden.
+
+      * Many in the Babylon community are interested in contributing their time
+      and knowledge to help grow the platform as a whole. 
+
+      * This not only provides a mechanism to pay for those contributions, but
+      also will help facilitate matching people who want to get involved with
+      projects they may be interested in.
+
+      * The core development team doesn't have time to stay up to date with all
+      developments across the community. 
+
+      * The Diplomats will act as a community facilitator, helping to better
+      coordinate teams, fill information voids, and improve efficiency by
+      providing context or involving the right people in a discussion.
+
+      * Babylon’s Discord is seeing an increase in spam posts and is becoming
+      difficult to moderate, the Diplomats will help keep Discord a useful and
+      quality forum.
+    name: About Diplomats
+    stepItems: []
+    uuid: 2c648c3d-270d-4e9f-9b98-bdce1400035f
+  - content: >-
+      |Area|Activity|
+
+      |--- |--- |
+
+      |Moderation|Be generally visible and on hand to help across all channels|
+
+      |Moderation|Be the first voice in the #support channel, create new threads
+      for issues and escalate to core team when needed|
+
+      |Moderation| Keep things orderly in Discord. Moderate content and remove
+      spammers|
+
+      |Moderation|Ongoing review of discord channels to determine which are
+      active, in use, and should be kept or archived |
+
+      |Onboarding|Participate in and facilitate bi-weekly Community Calls|
+
+      |Onboarding|Keep documentation and FAQs up to date|
+
+      |Onboarding|Be a DeFi and Babylon expert, provide detailed guidance and
+      hand holding for new and existing Babylon users|
+
+      |Onboarding| Maintain a process to support the allocation of work to
+      potential contributors. Provide direct guidance where necessary.|
+    name: What does a Diplomat do?
+    stepItems: []
+    uuid: 5e939246-40ef-4c73-903f-db2f2997ccc3
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - 22f05434
+        choices:
+          - content: Be generally visible and on hand to help across all channels
+            key: '239511e0'
+          - content: Participate in and facilitate bi-weekly Community Calls
+            key: 7d5f0289
+          - content: Work on critical bug fixes in the codebase
+            key: 22f05434
+          - content: Keep documentation and FAQs up to date
+            key: eb9d0276
+        content: >-
+          Which one of the below is not a responsibility of the diplomat?
+          (Select one)
+        type: MultipleChoice
+        uuid: 7dc3198e-ee0e-470b-b6fa-c80bf80a91a1
+    uuid: 1eff5c60-917d-47c2-b849-16864ae24ebd
+  - content: >+
+      |Tier|Benefits|Typical Responsibilities|
+
+      |--- |--- |--- |
+
+      |Level 0 - Emissary|Elevated Discord role and moderator
+      permissions.|Occasional Discord moderation and language translation|
+
+      |Level 1 - Counselor|$1000/mo|Provide high value in “Moderation”
+      activities.|
+
+      |Level 2 - Diplomat|$2000/mo|Provide high value in “Onboarding”
+      activities|
+
+      |Level 3 - Ambassador (not part of pilot)| $4000/mo + 200 BABL vested over
+      3 years + Great Prophet| Organize the activity of the rest of the team.
+      Contribute deepy to operations and the direction of the protocol |
+
+
+
+
+    name: Diplomat Levels and Rewards
+    stepItems: []
+    uuid: 362c437b-32a9-46e3-a9e4-27c6dcdc57e5
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - e4d39425
+        choices:
+          - content: $1000 + 100 BABL vested over 3 years + Great Prophet
+            key: 7e00dada
+          - content: $4000 + 200 BABL vested over 3 years + Great Prophet
+            key: e4d39425
+          - content: $1500 + 50 BABL vested over 3 years + Great Prophet
+            key: 77473f68
+          - content: $8000 + 500 BABL vested over 3 years + Great Prophet
+            key: cd928eb5
+        content: What is the compensation for an ambassador? (Select one)
+        type: MultipleChoice
+        uuid: fd68a993-73bb-48d0-9121-a2d1476b54b7
+      - answerKeys:
+          - 24f28526
+        choices:
+          - content: $2000/mo
+            key: 24f28526
+          - content: $1000/mo
+            key: ee0a7246
+          - content: $6000/mo
+            key: 26bb1058
+          - content: $500/mo
+            key: 90ec7d06
+        content: What is the compensation for a Level 2 - Diplomat (Select one)
+        type: MultipleChoice
+        uuid: cb23fe86-1fc9-4c29-b8cb-cea2ce53079e
+    uuid: 65d4a2de-cae7-4ba9-8a74-5b41f30356e0
+  - content: >
+      # Preferred qualifications
+
+      - Active user of the Babylon protocol
+
+      - Active across multiple Discord communities
+
+      - Can demonstrate DeFi knowledge and experience using multiple DeFi
+      protocols
+
+      - Experience moderating or contributing to large social communities
+      (Discord/Reddit/etc)
+
+      - Background in finance, business operations, or customer service
+
+      - Bonus: Past participation in a DAO
+    name: Preferred qualifications
+    stepItems: []
+    uuid: 5e2d1336-6e0d-4ed8-8a34-30cd297820e8
+  - content: >-
+      Best way to get in touch with Babylon Finance is to join their discord
+      server
+
+
+      Link
+      [https://discord.com/invite/babylon](https://discord.com/invite/babylon)
+    name: Contact Babylon Finance
+    stepItems: []
+    uuid: 9f927bf6-5dd8-48de-b2c5-f7fa6300d5e8
+thumbnail: ipfs://QmRBPPjcyUp3YthMkZbJXbsTrqXLkoqUURjFwM1hpD3bAi
+uuid: efce640e-3abd-494c-8da7-e36290a5a1d9
