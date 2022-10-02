@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2022-10-02T00:51:37.368Z'
+created: '2022-10-02T00:51:49.976Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -16,17 +16,13 @@ steps:
     name: Introduction
     stepItems:
       - label: Full Name
-        required: false
+        required: true
         type: PublicShortInput
         uuid: a4aff9fb-4570-4c24-8c35-9a89ce6cd19a
     uuid: 3fb64a1b-6dac-49de-b7da-64b37414f900
   - content: ''
     name: Introduction Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 52b0baaf-861b-495d-ad00-2167206baf0e
       - answerKeys:
           - dog_or_cat
           - only_dog
@@ -43,6 +39,10 @@ steps:
         content: Dog or a Cat, Do or a Cat, Dog or a Cat
         type: MultipleChoice
         uuid: 12d0ef68-b753-443a-8260-ab3e5b83007a
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: 52b0baaf-861b-495d-ad00-2167206baf0e
     uuid: 72e9bfbe-e9eb-4eae-a326-9f496d60d3b6
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
