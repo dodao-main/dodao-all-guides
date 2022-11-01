@@ -1,0 +1,60 @@
+categories:
+  - contentWriting
+  - design
+content: New Guide asd
+created: '2022-11-01T10:10:03.292Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: 6c66adb2-9358-48a2-95d2-b56aeda95dc9
+name: '33eee33 '
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      Introduction Comments 
+              
+    name: Introduction
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: b1803c3e-4922-454d-b582-9687efab3e92
+      - answerKeys:
+          - 79b12193
+        choices:
+          - content: ddfqweqwe
+            key: 79b12193
+          - content: dd
+            key: 8c7561c5
+        content: addddeeeddd
+        type: MultipleChoice
+        uuid: 335e3a77-f410-4386-aa9f-6a37159bbd81
+    uuid: 0055e240-524d-41a8-90a2-819a1df6d8bd
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - dog_or_cat
+          - only_dog
+          - only_cat
+        choices:
+          - content: Dog And Cat
+            key: dog_and_cat
+          - content: Dog Or Cat
+            key: dog_or_cat
+          - content: Only Dog
+            key: only_dog
+          - content: Only Cat
+            key: only_cat
+        content: Dog or a Cat, Do or a Cat, Dog or a Cat
+        type: MultipleChoice
+        uuid: 455997b5-d630-421f-b5ba-2560b7e45503
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: d0930a0f-94b9-4c92-a6d7-ccc48fca2349
+    uuid: 1dbd7ac6-9000-4b8c-a356-7d757a69942d
+thumbnail: ipfs://QmSTYhGUvxkUdWxNJB8GhwFnk5MX9ov763h6BHzpMx9Hje
+uuid: 6c66adb2-9358-48a2-95d2-b56aeda95dc9
